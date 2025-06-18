@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This application is testing how to create and publish a package",
+  "main": "index.js",
+  "scripts": {
+    "say": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
